@@ -7,7 +7,7 @@ Utilizando HTML e CSS fiz uma simulação do uso de um celular que possuí um ac
 Colocar em prática o uso de iframes e melhorar práticas anteriores.
 
 ### Link
-O link para o site encontra-se aqui: 
+O link para o site encontra-se aqui: https://luccasgreff.github.io/site-social/
 
 
 
